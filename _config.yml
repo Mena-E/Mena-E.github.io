@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Portfolio 
+title: Mena's Portfolio 
 
 # Your name to show in the footer
 author: Mena Ekelemu
@@ -15,9 +15,9 @@ author: Mena Ekelemu
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Favorite Links:
+    - ESPN: "https://www.espn.com"
+    - Premier League: "https://www.premierleague.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -39,14 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "odemena.ekelemu@gmail.com"
 # facebook: deanattali
-  github: github.com/Mena-E
-  twitter: twitter.com/m_ekelemu
+  github: Mena-E
+  twitter: m_ekelemu
 #  patreon: DeanAttali
 # youtube: c/daattali
 #  reddit: yourname
-  linkedin: linkedin.com/in/mena-ekelemu/
+  linkedin: mena-ekelemu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Mena-E.github.io"
+url-pretty: "mena_ekelemu.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -95,7 +95,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#C1C750"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
