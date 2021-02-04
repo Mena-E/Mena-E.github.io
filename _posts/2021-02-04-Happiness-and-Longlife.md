@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Happines and Longlife
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: Is more women in congress the answer
 cover-img: /assets/img/cristian-newman-o1PKM7-8AH4-unsplash.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/cristian-newman-o1PKM7-8AH4-unsplash.jpg
+share-img: /assets/img/cristian-newman-o1PKM7-8AH4-unsplash.jpg
 tags: [books, test]
 ---
