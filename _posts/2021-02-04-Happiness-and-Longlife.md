@@ -16,4 +16,4 @@ tags: [books, test]
 
 >As a bonus, I conducted a Linear Regression using the OLS model to check if there is a relationship between Life Expectancy and Happiness score. I found the two variables were mildly, but positively related. This relationship is shown in the animated bubble chart below, with the larger bubbles representing countries with a high percentage or level of women in parliament, while the smaller bubbles are for countries with a low level of women in parliament.
 
-![Bubble Plot of Life Expectancy(yrs) V Happiness Score (%)](https://chart-studio.plotly.com/~mena2020/23)
+[Link to Animation of bubble plot](https://chart-studio.plotly.com/~mena2020/25)
