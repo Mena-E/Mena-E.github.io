@@ -14,11 +14,12 @@ author: Mena Ekelemu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
+  My Blog: "https://www.odemena.medium.com"
   Favorite Links:
-    - ESPN: "https://www.espn.com"
     - Premier League: "https://www.premierleague.com/"
-    - My Medium Page: "https://www.odemena.medium.com"
+    - ESPN: "https://www.espn.com"
+    - CNBC: "https://www.cnbc.com"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
