@@ -8,9 +8,7 @@ share-img: /assets/img/cristian-newman-o1PKM7-8AH4-unsplash.jpg
 tags: [books, test]
 ---
 
-# Project Summary
-
->The goal of this study was to investigating if people living in countries with more women in parliament or cogress, have a higher average life expectancy and higher average happiness score than people in countries with fewer women in congress. My final dataframe had 160 countries. Two main questions were answered in this project.
+>**T**he goal of this study was to investigating if people living in countries with more women in parliament or cogress, have a higher average life expectancy and higher average happiness score than people in countries with fewer women in congress. My final dataframe had 160 countries. Two main questions were answered in this project.
 
 >For the first question I investigate whether the countries in the dataset with a higher percentage of women in congress have a higher average life expectancy than the countries with a lower percentage of women in Parliament. I split the observations into two groups, one higher and the other lower percenatge of women in Parliamnent, took the mean of their life expectancies, then did a two sample t-test to obtain a p-value. I found that the difference of the mean life expectancies were statistically significant at the 0.05 alpha significance level. So I rejected the null hypothesis and concluded that people in countries with a higher percentage of women in congress most likely also have a higher avetage life expectancy.
 
