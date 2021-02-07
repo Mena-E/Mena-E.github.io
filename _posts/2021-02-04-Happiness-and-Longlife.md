@@ -18,6 +18,8 @@ dataframe had 160 countries. Two main questions were answered in this project.
 
 >As a bonus, I conducted a Linear Regression using the OLS model to check if there is a relationship between Life Expectancy and Happiness score. I found the two variables were mildly, but positively related. This relationship is shown in the animated bubble chart below, with the larger bubbles representing countries with a high percentage or level of women in parliament, while the smaller bubbles are for countries with a low level of women in parliament.
 
+
+## Life Expectancy Prediction Widget
 <html><head>
 
 
